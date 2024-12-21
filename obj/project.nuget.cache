@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gFSMkcOcEp9EoCRG2VnbeZIn2dIrohOCrzSMbntMQIuHVfw+OL4sLJ2/cDNpZF+V+4mVOch2qoo+NQD13BLqyg==",
+  "success": true,
+  "projectFilePath": "/home/shubhamraj/Desktop/ABXClient/ABXClient.csproj",
+  "expectedPackageFiles": [
+    "/home/shubhamraj/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

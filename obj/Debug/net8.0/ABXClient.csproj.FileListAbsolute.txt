@@ -1,0 +1,17 @@
+/home/shubhamraj/Desktop/ABXClient/bin/Debug/net8.0/ABXClient
+/home/shubhamraj/Desktop/ABXClient/bin/Debug/net8.0/ABXClient.deps.json
+/home/shubhamraj/Desktop/ABXClient/bin/Debug/net8.0/ABXClient.runtimeconfig.json
+/home/shubhamraj/Desktop/ABXClient/bin/Debug/net8.0/ABXClient.dll
+/home/shubhamraj/Desktop/ABXClient/bin/Debug/net8.0/ABXClient.pdb
+/home/shubhamraj/Desktop/ABXClient/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/shubhamraj/Desktop/ABXClient/obj/Debug/net8.0/ABXClient.csproj.AssemblyReference.cache
+/home/shubhamraj/Desktop/ABXClient/obj/Debug/net8.0/ABXClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/shubhamraj/Desktop/ABXClient/obj/Debug/net8.0/ABXClient.AssemblyInfoInputs.cache
+/home/shubhamraj/Desktop/ABXClient/obj/Debug/net8.0/ABXClient.AssemblyInfo.cs
+/home/shubhamraj/Desktop/ABXClient/obj/Debug/net8.0/ABXClient.csproj.CoreCompileInputs.cache
+/home/shubhamraj/Desktop/ABXClient/obj/Debug/net8.0/ABXClient.csproj.CopyComplete
+/home/shubhamraj/Desktop/ABXClient/obj/Debug/net8.0/ABXClient.dll
+/home/shubhamraj/Desktop/ABXClient/obj/Debug/net8.0/refint/ABXClient.dll
+/home/shubhamraj/Desktop/ABXClient/obj/Debug/net8.0/ABXClient.pdb
+/home/shubhamraj/Desktop/ABXClient/obj/Debug/net8.0/ABXClient.genruntimeconfig.cache
+/home/shubhamraj/Desktop/ABXClient/obj/Debug/net8.0/ref/ABXClient.dll
